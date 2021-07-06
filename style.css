@@ -16,6 +16,7 @@ body{
     border-radius: 35px;
     background-image: linear-gradient(rgb(255, 123, 0), orange);
     color: whitesmoke;
+    font-size: 14pt;
 }
 
 
@@ -34,7 +35,7 @@ body{
 }
 #about-size{
     font-size: 30pt;
-    font-weight: 400;
+    
     margin-top: 10%;
 }
 .devided-section{
@@ -51,6 +52,11 @@ body{
 #pragraph-box{
     padding-left: 30%;
     padding-right: 30%;
+    color: gray;
+}
+h2{
+    margin: 0pt;
+    color: gray;
 }
 .width-img{
     width: 95%;
@@ -89,4 +95,11 @@ p{
     padding-right: 100px;
     padding-bottom: 50px;
     padding-left: 150px;
+}
+#black-bakground
+{
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    padding: 30px 30px;
+    color: oldlace;
 }
